@@ -1,8 +1,0 @@
-{
-    "yaml.schemas": {
-        "https://json.schemastore.org/kustomization.json": [
-            "file:///home/nibrasmuhd/Documents/brocamp/week11/2.1%20complex.zip/complex/k8s/client-deployment.yaml",
-            "file:///home/nibrasmuhd/Documents/brocamp/week11/2.1%20complex.zip/complex/k8s/client-cluster-ip-service.yaml"
-        ]
-    }
-}
